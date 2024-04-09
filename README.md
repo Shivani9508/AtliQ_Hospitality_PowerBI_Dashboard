@@ -21,3 +21,5 @@ My Learning 🔍
 📕 I learned about the operational dynamics of the hospitality industry as a commercial entity within the market.
 📕 Significant decisions can be derived from analysing market trends during weekdays and weekends.
 📕 Acquired understanding of RevPar, ADR, DURN, DSRN, and various other business terminology prevalent in the hospitality industry.
+
+## Live Dashboard Link : https://www.novypro.com/project/atliq-hotels-hospitality-analysis--power-bi
